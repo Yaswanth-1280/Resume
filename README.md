@@ -20,7 +20,8 @@ I am an enthusiastic beginner in open-source development, learning **Java, Kotli
 - Features: Clicking items navigates to the related **Wikipedia page**.
 - Demonstrates: DOM manipulation, JSON handling, API integration.
 - **Live Demo:** [https://yaswanth.ccbp.tech](https://yaswanth.ccbp.tech)
-- **GitHub Repo:** [Personal Website](https://github.com/Yaswanth-1280/personal-website)
+- **GitHub Repo:**
+- [Personal Website](https://github.com/Yaswanth-1280/personal-website)
 
 ## 🎯 Achievements
 - Received an internship offer from **ShadowFox**, motivating me to strengthen my coding and development skills.
