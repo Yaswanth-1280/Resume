@@ -4,9 +4,9 @@
 I am an enthusiastic beginner in open-source development, learning **Java, Kotlin, and Android Development**. I enjoy building apps and websites, improving my coding skills, and contributing to meaningful projects. I am eager to learn from mentors and collaborate with the open-source community.
 
 ## 💻 Tech Stack
-- **Languages:** Java, Kotlin, HTML, CSS, JavaScript, C (basic)
+- **Languages:** Java, Kotlin, HTML, CSS, JavaScript(basic), C (basic)
 - **Frameworks & Tools:** Android (Java/XML), Git & GitHub
-- **Other:** Responsive web design, DOM manipulation, JSON handling
+  
 
 ## 🛠 Projects
 
